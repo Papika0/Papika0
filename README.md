@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dato</h1>
-<h3 align="center">As a web developer intern with a passion for web development, I am excited to learn more and to apply my skills in HTML, CSS, JavaScript, NodeJS, SQL , Laravel , Tailwind and PHP. I am currently studying React to further enhance my knowledge and skills in web development.</h3>
+<h3 align="center">As a web developer intern with a passion for web development, I am excited to learn more and to apply my skills in HTML, CSS, JavaScript, NodeJS, SQL, Vue, Laravel , Tailwind and PHP. I am currently studying Laravel and Vue to further enhance my knowledge and skills in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papika0&label=Profile%20views&color=0e75b6&style=flat" alt="papika0" /> </p>
 
