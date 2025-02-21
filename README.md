@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papika0&label=Profile%20views&color=0e75b6&style=flat" alt="papika0" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel , Vue , Node**
 
 - 💬 Ask me about **Laravel , JavaScript**
 
