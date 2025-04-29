@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel "Dato" Papismedovi</h1>
+<h1 align="center">Hi 👋, I'm Daniel Papismedovi</h1>
 <h3 align="center">Full Stack Developer | PHP · Laravel · Vue.js · Node.js · React · AWS · CI/CD</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
   🌱 Continuously advancing my skills in **Laravel**, **Vue.js**, **Node.js**, and **AWS DevOps**.
   💬 Ask me about **RESTful APIs**, **performance optimization**, and **dynamic front‑end interfaces**.
   📫 Reach me at **papismedovi1@gmail.com**.
-  ⚡ Fun fact: I boosted API response times by 20% through strategic caching and CI/CD automation.
+  ⚡ Fun fact: I boosted API response times by 20% through strategic caching and session managment.
 </p>
 
 ---
